@@ -1,11 +1,11 @@
-**#About this project - CharacterViewer**
+**About this project - CharacterViewer**
 
 A sample Android app to play with http://api.duckduckgo.com/ API.
 It's supporting multiple flavors like simpsonsviewer and wireviewer which you can run through selecting build variants in android studio.
 Simpsonsviewer and Wireviewer both has different contents which load different characters and their details.
 Application made in kotlin with android architecture component, third party libraries and with MVVM design pattern.
 
-**#Demo**
+**Demo**
 
 
 <img width="238" alt="Screenshot 2023-06-19 at 11 09 44" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/d38d8cd8-c087-444d-a5c5-93cea86e5882">
@@ -22,7 +22,7 @@ Application made in kotlin with android architecture component, third party libr
 
 <img width="419" alt="Screenshot 2023-06-20 at 10 10 01" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/d7d31b4b-d1c7-43c4-b981-843fa422e406">
 
-**#ibraries Used**
+**Libraries Used**
 
 - AndroidX Support Libraries
 - Retrofit

@@ -12,3 +12,6 @@ Application made in kotlin with android architecture component, third party libr
 
 <img width="244" alt="Screenshot 2023-06-19 at 11 10 40" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/b44bbee7-9be6-4072-b3c3-7ef5338416cf">
 
+<img width="232" alt="Screenshot 2023-06-19 at 11 10 51" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/04740974-567a-4173-9225-00551b4024c2">
+
+

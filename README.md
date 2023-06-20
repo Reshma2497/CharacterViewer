@@ -14,4 +14,24 @@ Application made in kotlin with android architecture component, third party libr
 
 <img width="232" alt="Screenshot 2023-06-19 at 11 10 51" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/04740974-567a-4173-9225-00551b4024c2">
 
+<img width="309" alt="Screenshot 2023-06-20 at 10 07 51" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/be3cb942-54e2-4854-a4cb-366787a7e6d5">
+
+<img width="270" alt="Screenshot 2023-06-20 at 10 08 08" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/98f5910c-f769-44aa-a8ef-c9fa3dc6840c">
+
+<img width="422" alt="Screenshot 2023-06-20 at 10 09 08" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/c475b8bc-b0ce-4148-8a1d-0e818e29d78f">
+
+<img width="419" alt="Screenshot 2023-06-20 at 10 10 01" src="https://github.com/Reshma2497/CharacterViewer/assets/110983170/d7d31b4b-d1c7-43c4-b981-843fa422e406">
+
+**#ibraries Used**
+
+- AndroidX Support Libraries
+- Retrofit
+- OkHttp
+- ViewModel
+- LiveData
+- Glide
+- Hilt
+  
+
+
 
